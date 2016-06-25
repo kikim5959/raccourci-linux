@@ -15,16 +15,15 @@ img {
 }
   h1 {
 
-  text-align: center;
+		text-align: center;
 	font-size: 24px;
 	font-family: "Special Elite";
 	text-decoration: underline;
   text-decoration-style: solid;
 
   }
- li {
-
-text-align: center;
+ ul li {
+	 text-align: center;
 color: red;
 font-style: italic;
 font-family:  serif;
@@ -36,7 +35,7 @@ font-family:  serif;
 h6 {
 
 
-text-align: right;;
+text-align: right;
 
 }
 
@@ -56,5 +55,12 @@ width: 100px;
 
 float: left;
 width: 200px;
+
+}
+
+h2 {
+
+text-align: center;
+
 
 }

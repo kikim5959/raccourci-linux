@@ -1,66 +1,42 @@
 /*------------GENERAL-----------*/
 
 body {
-	background-image: Teal;
-	background-color: white;
+
+  background-color: Teal;
+
 }
+
 h2 {
-	font-family:  fantasy;
-	font-size: 60px;
+    font-family: fantasy;
+    font-size: 60px;
 }
 img {
-	width: 350px;
-	float: right;
-
+    width: 350px;
+    float: right;
 }
-  h1 {
-
-		text-align: center;
-	font-size: 24px;
-	font-family: "Special Elite";
-	text-decoration: underline;
-  text-decoration-style: solid;
-
-  }
- ul li {
-	 text-align: center;
-color: red;
-font-style: italic;
-font-family:  serif;
- }
-
-
-
-
+h1 {
+    text-align: center;
+    font-size: 24px;
+    font-family: "Special Elite";
+    text-decoration: underline;
+    text-decoration-style: solid;
+}
+ul li {
+    text-align: center;
+    color: red;
+    font-style: italic;
+    font-family: serif;
+}
 h6 {
-
-
-text-align: right;
-
+    text-align: right;
 }
-
-
 #sisi {
-
-
-width: 100px;
-
+    width: 100px;
 }
-
-
-
-
 #lol {
-
-
-float: left;
-width: 200px;
-
+    float: left;
+    width: 200px;
 }
-
 h2 {
-
-text-align: center;
-
-
+    text-align: center;
 }

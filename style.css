@@ -1,6 +1,7 @@
 /*------------GENERAL-----------*/
 
 body {
+<<<<<<< HEAD
 	background-image:radial-gradient
 }
 h2 {
@@ -27,3 +28,46 @@ color: red;
 font-style: italic;
 font-family:  serif;
  }
+=======
+
+  background-color: Teal;
+  text-align: center;
+
+}
+
+h2 {
+    font-family: fantasy;
+    font-size: 60px;
+    text-align: center;
+}
+img {
+    width: 180px;
+    float: right;
+}
+h1 {
+    text-align: center;
+    font-size: 24px;
+
+}
+ul li {
+    text-align: center;
+    color: red;
+    font-style: italic;
+    font-family: serif;
+}
+
+h6 {
+    text-align: right;
+}
+#sisi {
+    width: 180px;
+    float: left;
+}
+#lol {
+    float: left;
+    width: 200px;
+}
+h2 {
+    text-align: center;
+}
+>>>>>>> gh-pages

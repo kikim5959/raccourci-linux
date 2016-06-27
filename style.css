@@ -33,7 +33,7 @@ h6 {
 }
 #sisi {
     width: 180px;
-    float: left;
+    float: none; 
 }
 #lol {
     float: left;
@@ -41,9 +41,4 @@ h6 {
 }
 h2 {
     text-align: center;
-}
-
-a {
-
-  text-align: center;
 }

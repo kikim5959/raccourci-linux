@@ -14,7 +14,7 @@ h2 {
 }
 img {
     width: 180px;
-    float: Copyright (c) 2016 Copyright Holder All Rights Reserved.;
+    float: none;
 }
 h1 {
     text-align: center;
@@ -33,7 +33,7 @@ h6 {
 }
 #sisi {
     width: 180px;
-    float: none; 
+    float: none;
 }
 #lol {
     float: left;
